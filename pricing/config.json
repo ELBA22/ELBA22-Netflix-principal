@@ -1,0 +1,55 @@
+{
+    
+    "section":{
+        "titulo": "choose the plan that's right you",
+        "parrafo": [
+            {
+                "texto": "See as much as you want. No ads."
+            },
+            {
+                "texto": "Exclusive recommendations for you."
+            },
+            {
+                "texto": "You can change plans or cancel at any time."
+            }
+
+        ]
+    },
+    "section2":{
+        "Tarjets1":{
+            "titulo": "Basic",
+            "precios": "COP16,900",
+            "botton": "Sing up for free"
+        },
+        
+        "Tarjets2":{
+            "titulo": "Standard",
+            "precios": "COP26,900",
+            "botton": "Get started"
+        },
+
+        "Tarjets3":{
+            "titulo": "Enterprise",
+            "precios": "COP38,900",
+            "botton": "Contact Us"
+        }
+    },
+
+    "Tabla":{
+        "titulo1":"Basic",
+        
+        "titulo2":"Private",
+
+        "titulo3": "Standard",
+
+        "titulo4": "Wacht on your TV, computer, mobile phone and tablet"
+
+    },
+
+    "secFooter":{
+        ""
+    }
+}
+    
+
+
